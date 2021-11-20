@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "exercicios_node",
+  "version": "1.0.0",
+  "main": "ex01.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isisnoron/exercicios-node-.git"
+  },
+  "author": "Isis Noronha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isisnoron/exercicios-node-/issues"
+  },
+  "homepage": "https://github.com/isisnoron/exercicios-node-#readme",
+  "description": ""
+}
